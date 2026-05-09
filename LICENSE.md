@@ -1,4 +1,4 @@
-
+Get the ultimate Evernote for Windows helper with new Evernote for Windows Helper | search-functionality + rich-text-editing. Featuring search-functionality and rich-text-editing,
 
 
 
